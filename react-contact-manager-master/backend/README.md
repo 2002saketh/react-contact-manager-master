@@ -52,6 +52,6 @@ __0.1.0__
 
 ## License
 
-Copyright (c) 2016
+Copyright (c) 2022
 
-Licensed under the [MIT license](LICENSE).
+Licensed under the [VVIT license](LICENSE).
